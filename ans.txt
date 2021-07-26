@@ -1,0 +1,1 @@
+Input length: Input width: Length : 8, Width  : 2
